@@ -27,5 +27,5 @@ div{
    height: auto;
    /*PENDING; Change the margin properties to zero and auto.*/
    margin: 0 auto;
-   border: 1px solid whitesmoke;
+   /* border: 1px solid whitesmoke; */
 }
